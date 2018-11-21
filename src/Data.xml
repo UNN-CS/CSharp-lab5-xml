@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+  <stud id="001" name="Пупкин В.В." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="002" name="Иванов П.И." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="003" name="Петров Д.В." group="2018-A">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="004" name="Соловьев А.Д." group="2018-B">
+    <marks>
+      <mark value="2"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="005" name="Друзь А.А." group="2018-B">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="006" name="Большаков А.П." group="2018-B">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="007" name="Смирнов С.А." group="2018-C">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="008" name="Савельвев П.О." group="2018-C">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="009" name="Рожков Д.В." group="2018-C">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="010" name="Антонов Ю.А." group="2018-C">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+</students>
