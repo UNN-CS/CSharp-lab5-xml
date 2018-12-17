@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <stud id="001" name="Бита Д.М.." group="2018-A">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+  <stud id="002" name="Бранштейн Л.А." group="2018-B">
+    <marks>
+      <mark value="2"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="003" name="Троцкий М.В." group="2018-C">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="004" name="Кармазин Г.Г." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+      <mark value="2"></mark>
+    </marks>
+  </stud>
+  <stud id="005" name="Интернационалов Р.Л." group="2018-B">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+  <stud id="006" name="Дмитриенко Г.В." group="2018-C">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+  <stud id="007" name="Ленин В.У." group="2018-A">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="008" name="Францисков Г.М." group="2018-B">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="009" name="Пупкин В.В." group="2018-C">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="010" name="Шпалов-Дербентов М.К." group="2018-A">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="2"></mark>
+    </marks>
+  </stud>
+</students>
