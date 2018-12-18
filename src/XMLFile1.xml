@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+  <stud id="001" name="Трубина А.В." group="381606-3">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="002" name="Земляникин Е.С." group="381606-3">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="003" name="Абазов Р.Г." group="381606-3">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="004" name="Харь Н.И." group="381607-1">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="005" name="Буянов А.Д." group="381607-1">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="006" name="Скулкина Н.С." group="381607-1">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="007" name="Новикова В.К." group="381607-2">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="008" name="Слащева Я.В." group="381607-2">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="009" name="Машков И.В." group="381607-1">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="010" name="Ерофеев А.С." group="381607-1">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+</students>
+
+
