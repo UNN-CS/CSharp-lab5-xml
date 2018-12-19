@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone ="yes"?> 
+<students>
+  <stud id="001" name="первый" group="2018-1">
+    <marks>
+      <mark value ="2"></mark>
+      <mark value ="2"></mark>
+      <mark value ="2"></mark>
+      <mark value ="2"></mark>
+     </marks>
+    </stud>
+  <stud id="002" name="второй" group="2018-1">
+    <marks>
+      <mark value ="2"></mark>
+      <mark value ="2"></mark>
+      <mark value ="2"></mark>
+      <mark value ="3"></mark>
+    </marks>
+  </stud>
+  <stud id="003" name="Третий" group="2018-1">
+    <marks>
+      <mark value ="2"></mark>
+      <mark value ="2"></mark>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+    </marks>
+  </stud>
+  <stud id="004" name="четвертый" group="2018-1">
+    <marks>
+      <mark value ="2"></mark>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+    </marks>
+  </stud>
+  <stud id="005" name="пятый" group="2018-1">
+    <marks>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+    </marks>
+  </stud>
+  <stud id="006" name="шестой" group="2018-1">
+    <marks>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+      <mark value ="4"></mark>
+    </marks>
+  </stud>
+  <stud id="007" name="седьмой" group="2018-1">
+    <marks>
+      <mark value ="3"></mark>
+      <mark value ="3"></mark>
+      <mark value ="4"></mark>
+      <mark value ="4"></mark>
+    </marks>
+  </stud>
+  <stud id="008" name="восьмой" group="2018-1">
+    <marks>
+      <mark value ="3"></mark>
+      <mark value ="4"></mark>
+      <mark value ="4"></mark>
+      <mark value ="4"></mark>
+    </marks>
+  </stud>
+  <stud id="009" name="девятый" group="2018-1">
+    <marks>
+      <mark value ="4"></mark>
+      <mark value ="4"></mark>
+      <mark value ="4"></mark>
+      <mark value ="5"></mark>
+    </marks>
+  </stud>
+  <stud id="010" name="десятый" group="2018-1">
+    <marks>
+      <mark value ="4"></mark>
+      <mark value ="4"></mark>
+      <mark value ="5"></mark>
+      <mark value ="5"></mark>
+    </marks>
+  </stud>
+</students>
