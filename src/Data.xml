@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+  <stud id="001" name="Пупкин В.В." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="002" name="Кузьмин Александр" group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="003" name="Кузминский Иван" group="2018-A">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="004" name="Курц Томас" group="2018-B">
+    <marks>
+      <mark value="2"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="005" name="Гослинг Джеймс" group="2018-B">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+<stud id="006" name="Сочков Ю.В." group="2018-B">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="007" name="Ритчи Деннис" group="2018-C">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="008" name="Влашин Скотт" group="2018-C">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+<stud id="009" name="Гейтс Билл" group="2018-C">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+<stud id="010" name="Томпсон Кен" group="2018-C">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+</students> 
