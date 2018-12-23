@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<students>
+  <stud id="001" name="Кулаков.Р.А." group="500">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+  <stud id="002" name="Головин.Д.А" group="500">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+  <stud id="003" name="Дудкова.К.В." group="501">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+  <stud id="004" name="Слащева.Я.С." group="502">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+  <stud id="005" name="Юсипов.Р.А." group="500">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="4></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="006" name="Лаптев.Н.Д. group="500">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+  <stud id="007" name="Баландин.А.А." group="500">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="008" name="Орлов.А.В." group="500">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+  <stud id="009" name="Воронов.Д.С." group="501">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+  <stud id="010" name="Афанасьев.А.А." group="502">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="2"></mark>
+    </marks>
+  </stud>
+</students>  
