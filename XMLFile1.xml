@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <stud id="001" name="Голованов Д.А." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+
+  <stud id="002" name="Онегин А.А." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+    </marks>
+  </stud>
+
+
+  <stud id="003" name="Ковальчук Д.Д." group="2018-B">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="4"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+
+  <stud id="004" name="Курицын А.Л." group="2018-C">
+    <marks>
+      <mark value="2"></mark>
+      <mark value="2"></mark>
+      <mark value="2"></mark>
+      <mark value="2"></mark>
+    </marks>
+  </stud>
+
+
+  <stud id="005" name="Ананасов Щ.О" group="2018-C">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+
+  <stud id="006" name="Козов У.Е" group="2018-B">
+    <marks>
+      <mark value="5"></mark>
+      <mark value="5"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+
+  <stud id="007" name="Акулов У.Е." group="2018-">
+    <marks>
+      <mark value="2"></mark>
+      <mark value="2"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+
+  <stud id="008" name="Куценко О.О." group="2018-A">
+    <marks>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+      <mark value="4"></mark>
+    </marks>
+  </stud>
+
+  <stud id="009" name="Назаров А.У." group="2018-B">
+    <marks>
+      <mark value="2"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+      <mark value="2"></mark>
+    </marks>
+  </stud>
+
+  <stud id="0010" name="Енотов А.У." group="2018-A">
+    <marks>
+      <mark value="3"></mark>
+      <mark value="5"></mark>
+      <mark value="3"></mark>
+      <mark value="3"></mark>
+    </marks>
+  </stud>
+
+  
+</students>
